@@ -1,0 +1,120 @@
+{
+  "ussers": [
+    {
+      "id": "01",
+      "usser_name": "pao",
+      "password": "1234",
+      "name": "Paola",
+      "img": "https://i.ibb.co/tDDM6pR/avatar-paola.jpg"
+    },
+    {
+      "id": "02",
+      "usser_name": "jj",
+      "password": "5678",
+      "name": "José",
+      "img": "https://i.ibb.co/B3rHjYs/avatar-jose.png"
+    },
+    {
+      "id": "03",
+      "usser_name": "dap",
+      "password": "5678",
+      "name": "Diana",
+      "img": "https://i.ibb.co/M6RQPG7/avatar-diana.png"
+    }
+  ],
+
+  "products": [
+    {
+      "id": "1",
+      "pizzaname": "Master Super CSS Pizza ",
+      "price": "50000",
+      "stars": "01",
+      "size": {
+        "type1": "Grande",
+        "type2": "Mediana",
+        "type3": "Personal"
+      },
+
+      "descriptions": "Deliciosa Pizza clásica, con orilla de pan esponjoso. Es un manjar, si estás a punto de enviar cambios a producción un viernes, necesitarás una de estas.",
+
+      "comments": {
+        "comment": "De las mejores pizzas que he probado, recomendada.",
+        "name": "Marcos Toledo",
+        "img": "https://i.ibb.co/tDDM6pR/avatar-paola.jpg"
+      },
+      "img": "https://i.ibb.co/qDY9TH6/pizza-tomate.jpg",
+      "img2": "https://i.ibb.co/PxnS4J3/cuatro-carnes.jpg",
+      "img3": "https://i.ibb.co/7Sjr4GF/pepperoni.jpg"
+    },
+
+    {
+      "id": "2",
+      "pizzaname": "Pizza super especial Frontend",
+      "price": "45000",
+      "stars": "01",
+      "size": {
+        "type1": "Grande",
+        "type2": "Mediana",
+        "type3": "Personal"
+      },
+
+      "descriptions": "Delicioso Pizza para un viernes de maratón de peliculas",
+
+      "comments": {
+        "comment": "Una pizza muy rica, me encantó, la recomiendo  y odio la pizza Hawaiana.",
+        "name": "Paola Torres",
+        "img": "https://i.ibb.co/B3rHjYs/avatar-jose.png"
+      },
+      "img": "https://i.ibb.co/5GmXVMC/pizza-champi-ones.jpg",
+      "img2": "https://i.ibb.co/KzyGtBj/pizza-casera-axion.jpg",
+      "img3": "https://i.ibb.co/zSbzh8j/pizza-tex-mex-3027.jpg"
+    },
+    {
+      "id": "3",
+      "pizzaname": "Pizza Especial developer",
+      "price": "48000",
+      "stars": "01",
+      "size": {
+        "type1": "Grande",
+        "type2": "Mediana",
+        "type3": "Personal"
+      },
+
+      "descriptions": "Deliciosa pizza para disfrutar si estas estresado porque no encuentras el error en tu código",
+
+      "comments": {
+        "comment": "Nada mejor que una pizza multi sabores para compartir con tus compañeros del bootcamp aunque no arreglo el código",
+        "name": "Diana Pinzón",
+        "img": "https://i.ibb.co/tDDM6pR/avatar-paola.jpg"
+      },
+      "img": "https://i.ibb.co/rwjNtQd/pizza-ajo.jpg",
+      "img2": "https://i.ibb.co/qpqdLrZ/otar-jgp.jpg",
+      "img3": "https://i.ibb.co/NLTKKHX/pizasss.jpg"
+    },
+
+    {
+      "id": "4",
+      "pizzaname": "Pizza Hawaiana de José",
+      "price": "35000",
+      "stars": "01",
+      "size": {
+        "type1": "Grande",
+        "type2": "Mediana",
+        "type3": "Personal"
+      },
+
+      "descriptions": "Deliciosa pizza para disfrutar si estas estresado porque no encuentras el error en tu código",
+
+      "comments": {
+        "comment": "Que viva la pizza Hawaiana aunque todos la odien",
+        "name": "José Sanmiguel"
+      },
+      "img": "https://i.ibb.co/NjbCqmP/pizza-hawaiana.jpg",
+      "img2": "https://i.ibb.co/9pZYGwW/la-pizza-a.webp",
+      "img3": "https://i.ibb.co/2vtBGxw/pizza-hawaiana-e.jpg"
+    }
+  ],
+
+  "cart": [],
+  "purchase": []
+}
